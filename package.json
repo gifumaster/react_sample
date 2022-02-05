@@ -15,10 +15,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.7.2",
     "axios": "^0.25.0",
     "date-fns": "^2.28.0",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-redux": "^7.2.6"
   },
   "devDependencies": {
     "@types/react": "^17.0.36",
